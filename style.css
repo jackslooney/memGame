@@ -1,0 +1,40 @@
+
+body {
+    background-color: aquamarine;
+}
+
+button {
+    background-color: blanchedalmond;
+    text-align: center;
+    border-radius: 30%;
+
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+    margin: auto;
+}
+
+
+.square {
+    width: 200px;
+    height: 200px;
+    border-style: dashed;
+    border-color: tomato;
+}
+
+.whack-grid {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+    width: 618px;
+    height: 618px;
+}
+
+.mole {
+    background-image: url();
+}
