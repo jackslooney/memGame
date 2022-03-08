@@ -1,9 +1,24 @@
 
 
-#home-header {
+a {
+    text-decoration: none;
+}
+
+.home-header {
     text-align: center;
 }
 
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+
+    #buttonLink {
+        display: block;
+        margin:auto;
+        padding: 15px;
+      }
 
 body {
     background-color: aquamarine;
