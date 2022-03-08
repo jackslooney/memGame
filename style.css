@@ -1,4 +1,10 @@
 
+
+#home-header {
+    text-align: center;
+}
+
+
 body {
     background-color: aquamarine;
 }
@@ -36,5 +42,6 @@ button {
 }
 
 .mole {
-    background-image: url();
+    background-image: url('images/bitch.jpg');
+    background-size: cover;
 }
